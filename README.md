@@ -2,11 +2,18 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 0 problems · 0 labs · 5 math
+**8** solved · 2 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://Keerthi291890.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-11 | [solution](problems/0016-feature-scaling-implementation) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-08-11 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 
 ## Math
 
@@ -14,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-10 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-08-10 | [solution](math/0018-descriptive-statistics) |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-11 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-10 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-10 | [solution](math/0030-ml-workflow-basics) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-10 | [solution](math/0034-least-squares-and-the-normal-equations) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:02:35.597Z",
+  "generated_at": "2026-11-14T11:02:37.627Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -55,6 +55,43 @@
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-08-10T15:57:06.127Z",
       "last_pushed_at": "2026-08-10T15:57:06.127Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-08-11T11:37:02.933Z",
+      "last_pushed_at": "2026-08-11T11:37:02.933Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-08-11T11:54:05.816Z",
+      "last_pushed_at": "2026-08-11T11:54:05.816Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-08-11T14:20:00.241Z",
+      "last_pushed_at": "2026-08-11T14:20:00.241Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
