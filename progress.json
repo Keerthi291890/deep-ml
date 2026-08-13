@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:02:39.437Z",
+  "generated_at": "2026-11-14T11:02:41.284Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -105,6 +105,32 @@
       "last_pushed_at": "2026-08-12T12:05:06.043Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-08-13T11:06:35.798Z",
+      "last_pushed_at": "2026-08-13T11:06:35.798Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-08-13T11:43:46.856Z",
+      "last_pushed_at": "2026-08-13T11:43:46.856Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
