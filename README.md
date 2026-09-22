@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 10 problems · 0 labs · 6 math
+**17** solved · 11 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-09-22 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-11 | [solution](problems/0016-feature-scaling-implementation) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-08-15 | [solution](problems/0014-linear-regression-using-normal-equation) |
