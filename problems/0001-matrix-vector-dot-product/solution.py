@@ -6,12 +6,10 @@ def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|
     b = np.asarray(b)
     (arows, acols) = a.shape
     (bcols, ) = b.shape
-    if bcols!=acols: return -1
+    if acols!=bcols: return -1
     res = np.zeros(arows)
-    b = b
     for i in range(arows):
         for j in range(bcols):
-            res[i]+= a[i][j]*b[j]
+            res[i] += a[i][j]*b[j]
     return res.tolist()
-          
     pass
