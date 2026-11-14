@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:02:52.386Z",
+  "generated_at": "2026-11-14T11:02:54.075Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-08-10T06:42:14.983Z",
-      "last_pushed_at": "2026-08-10T06:42:14.983Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "math:34": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-08-10T15:33:23.294Z",
-      "last_pushed_at": "2026-08-10T15:33:23.294Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "math:1": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-08-10T15:34:37.348Z",
-      "last_pushed_at": "2026-08-10T15:34:37.348Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "math:5": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-08-10T15:36:14.639Z",
-      "last_pushed_at": "2026-08-10T15:36:14.639Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "math:18": {
       "kind": "math",
@@ -54,7 +54,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-08-10T15:57:06.127Z",
-      "last_pushed_at": "2026-08-10T15:57:06.127Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "math:33": {
       "kind": "math",
@@ -65,7 +65,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-08-11T11:37:02.933Z",
-      "last_pushed_at": "2026-08-11T11:37:02.933Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "problem:1058": {
       "kind": "problem",
@@ -232,7 +232,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-11-14T10:32:30.295Z",
-      "last_pushed_at": "2026-11-14T10:32:30.295Z"
+      "last_pushed_at": "2026-11-14T11:02:54.073Z"
     },
     "problem:1": {
       "kind": "problem",
